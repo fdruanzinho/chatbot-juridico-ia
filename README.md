@@ -9,7 +9,7 @@ Este script testa a conexão com a API da OpenAI (ChatGPT) e retorna uma respost
 ## Tecnologias
 
 - Python 3.8+
-- OpenAI API
+- GeminiAI API
 - python-dotenv
 
 ## Como executar
@@ -23,4 +23,8 @@ Este script testa a conexão com a API da OpenAI (ChatGPT) e retorna uma respost
 
 ## Autor
 
-Seu Nome
+Ruan Castilho
+<br>
+Lucas Josué
+<br>
+Jackson Vinícius
