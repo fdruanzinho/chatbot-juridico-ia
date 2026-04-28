@@ -24,5 +24,7 @@ Este script testa a conexão com a API da OpenAI (ChatGPT) e retorna uma respost
 ## Autor
 
 Ruan Castilho
+<br>
 Lucas Josué
+<br>
 Jackson Vinícius
