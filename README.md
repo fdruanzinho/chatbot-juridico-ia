@@ -4,7 +4,7 @@ Este projeto faz parte do desenvolvimento de um chatbot para atendimento automat
 
 ## Etapa 1: Validação da API
 
-Este script testa a conexão com a API da OpenAI (ChatGPT) e retorna uma resposta de exemplo.
+Este script testa a conexão com a API da GeminiAI (Gemini) e retorna uma resposta de exemplo.
 
 ## Tecnologias
 
