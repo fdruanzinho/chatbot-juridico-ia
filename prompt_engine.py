@@ -141,7 +141,7 @@ class DualAIManager:
             model="gemini-2.5-flash",
             google_api_key=gemini_api_key,
             temperature=0.5,
-            max_output_tokens=500
+            max_output_tokens=1500
         )
         # Inicializa a segunda IA (Groq) com Llama 3
         self.client_groq = Groq(api_key=groq_api_key)
@@ -162,7 +162,7 @@ class DualAIManager:
             ],
             model=self.groq_model,
             temperature=0.5,
-            max_tokens=500,
+            max_tokens=1500,
         )
         return chat_completion.choices[0].message.content
     
